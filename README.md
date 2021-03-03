@@ -112,7 +112,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/theshashankk/WHITEDEVIL1.0))
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/DEVIILBOI/SUPERDEVIL))
 
 
 
